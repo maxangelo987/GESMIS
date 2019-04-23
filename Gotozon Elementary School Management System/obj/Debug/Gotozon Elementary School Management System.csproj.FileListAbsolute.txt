@@ -1,0 +1,47 @@
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\Gotozon Elementary School Management System.exe.config
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.exe
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.pdb
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.csprojResolveAssemblyReference.cache
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Grade.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.LoginPanel.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Developer.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Teacher.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Student.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.ViewRecordsStudent.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.ViewRecordsTeacher.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.WelcomeHD.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.WelcomeO.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.LoginPanel.fil.resources
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.csproj.GenerateResource.Cache
+F:\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\fil\Gotozon Elementary School Management System.resources.dll
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\Gotozon Elementary School Management System.exe.config
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.exe
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.pdb
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\LoginPanel.resx
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\WelcomeHD.resx
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\LoginPanel.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\LoginPanel.Designer.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\WelcomeHD.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\WelcomeHD.Designer.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\Gotozon Elementary School Management System.exe.manifest
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\Gotozon Elementary School Management System.application
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\Gotozon Elementary School Management System.exe
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\Gotozon Elementary School Management System.pdb
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Debug\fil\Gotozon Elementary School Management System.resources.dll
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Grade.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.LoginPanel.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Developer.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Teacher.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.Student.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.ViewRecordsStudent.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.ViewRecordsTeacher.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.WelcomeHD.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.WelcomeO.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\School_Management_System.LoginPanel.fil.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\fil\Gotozon Elementary School Management System.resources.dll
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.exe.manifest
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Debug\Gotozon Elementary School Management System.application

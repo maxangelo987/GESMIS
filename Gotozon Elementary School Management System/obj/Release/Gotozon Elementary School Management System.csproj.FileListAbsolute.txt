@@ -1,0 +1,29 @@
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\Gotozon Elementary School Management System.exe.config
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\Gotozon Elementary School Management System.exe
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\Gotozon Elementary School Management System.pdb
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.Grade.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.LoginPanel.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.Developer.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.Properties.Resources.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.Teacher.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.Student.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.ViewRecordsStudent.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.ViewRecordsTeacher.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.WelcomeHD.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.WelcomeO.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\School_Management_System.LoginPanel.fil.resources
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\Gotozon Elementary School Management System.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\fil\Gotozon Elementary School Management System.resources.dll
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\LoginPanel.resx
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\WelcomeHD.resx
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\LoginPanel.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\LoginPanel.Designer.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\WelcomeHD.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\WelcomeHD.Designer.cs
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\Gotozon Elementary School Management System.exe.manifest
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\Gotozon Elementary School Management System.application
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\Gotozon Elementary School Management System.exe
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\Gotozon Elementary School Management System.pdb
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\bin\Release\fil\Gotozon Elementary School Management System.resources.dll
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\Gotozon Elementary School Management System.exe.manifest
+C:\Users\user\Desktop\Gotozon Elementary School Management Information System\Gotozon Elementary School Management System\obj\Release\Gotozon Elementary School Management System.application
